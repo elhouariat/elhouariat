@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"> 
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width=100> 
 
 ### سلام (salam)🙏🏻, I’m @elhouariat 👋
 - 👀 I’m interested in Java development
