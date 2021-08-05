@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @elhouariat
-- 👀 I’m interested in Java development
+<img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="50"> 
 
-<!---
-elhouariat/elhouariat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+سلام (salam)🙏🏻, I’m @elhouariat 👋
+👀 I’m interested in Java development
+🎯 Portfolio website: Portfolio
+💬 Ask me about anything, I am happy to help 😄
+📬 How to reach me: [Let's get in touch!][linkedin]
+
+ 
